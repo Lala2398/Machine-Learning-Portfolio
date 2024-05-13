@@ -40,17 +40,17 @@ Module 5 - Dimensionality Reduction & Collaborative Filtering
  
 ## Notebooks : 
 
-[Supervised Machine Learning Algorithms :]()
+[Supervised Machine Learning Algorithms :](https://github.com/Lala2398/Machine-Learning-Portfolio/tree/main/IBM_MLwithPython/Supervised)
 
-[Regressions]()
+[Regressions](https://github.com/Lala2398/Machine-Learning-Portfolio/tree/main/IBM_MLwithPython/Supervised/Regressions)
 
-[Classifications]()
+[Classifications](https://github.com/Lala2398/Machine-Learning-Portfolio/tree/main/IBM_MLwithPython/Supervised/Classifications)
 
-[Unsupervised Machine Learning Algorithms:]()
+[Unsupervised Machine Learning Algorithms:](https://github.com/Lala2398/Machine-Learning-Portfolio/tree/main/IBM_MLwithPython/Unsupervised)
 
-[Clustering]()
+[Clustering](https://github.com/Lala2398/Machine-Learning-Portfolio/tree/main/IBM_MLwithPython/Unsupervised/Clustering)
 
-[Content_based_recommendation_system]()
+[Content_based_recommendation_system](https://github.com/Lala2398/Machine-Learning-Portfolio/tree/main/IBM_MLwithPython/Unsupervised/Content_based_recommendation_system)
 
 
 
