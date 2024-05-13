@@ -42,7 +42,7 @@ Let's see one by one to all the notebooks:
 
 [Unsupervised algorithms: PCA, T-SNE, LDA](https://github.com/Lala2398/Machine-Learning-Portfolio/blob/main/Machine-Learning-Portfolio/Machine_learning_projects-main/Unsupervised_algorithms_python.ipynb) 
 
-### dataset is for notebooks :
+### Dataset for notebooks :
 
 [Data](https://github.com/Lala2398/Machine-Learning-Portfolio/tree/main/Machine-Learning-Portfolio/Machine_learning_projects-main/data)
 
