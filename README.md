@@ -71,7 +71,7 @@ Let's see one by one to all the notebooks:
 
 
 ### UDACITY ML Nanodegree : Scholarship by Amazon
-[Codes,notes and exercises](https://github.com/Lala2398/Machine-Learning-Portfolio/blob/main/Udacity_AWS_ML_Nanodegree/README.md)
+[Codes,notes and exercises](https://github.com/Lala2398/Machine-Learning-Portfolio/tree/main/Udacity_AWS_ML_Nanodegree)
 
 
 If you want to use my Repository so, Getting Start : 
