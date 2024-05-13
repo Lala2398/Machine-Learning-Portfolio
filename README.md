@@ -60,6 +60,11 @@ Let's see one by one to all the notebooks:
 
 
 
+### WomeninML_2022 - The Women in ML Symposium Google 2022 
+[My Notes and Notebook from "The Women in ML Symposium Google 2022"](https://github.com/Lala2398/Machine-Learning-Portfolio/blob/main/WomeninML_2022/WiML_Symposium_2022_Intro_to_ML.ipynb) 
+
+[Codes and notes from](https://eventsonair.withgoogle.com/events/women-in-machine-learning-2022)
+
 
 
 
