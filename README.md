@@ -66,6 +66,8 @@ Let's see one by one to all the notebooks:
 [Codes and notes from](https://eventsonair.withgoogle.com/events/women-in-machine-learning-2022)
 
 
+### IBM Machine Learning with Python
+[Syllabus, Notebooks, Certificate and Badge about the Course](https://github.com/Lala2398/Machine-Learning-Portfolio/tree/main/IBM_MLwithPython) 
 
 
 
