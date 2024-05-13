@@ -1,4 +1,4 @@
-# Udacity_AWS_ML_Nanodegree
+# Udacity AWS ML Nanodegree
 Notes and Notebooks from my Nanodegree classes supported by scholarships created by Udacity and especially, AWS.
 
 [PDF Files](https://github.com/Lala2398/Machine-Learning-Portfolio/tree/main/Udacity_AWS_ML_Nanodegree/PDF%20files)
