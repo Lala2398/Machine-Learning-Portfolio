@@ -74,8 +74,7 @@ Let's see one by one to all the notebooks:
 If you want to use my Repository so, Getting Start : 
 
 To explore these projects, you can simply clone this repository using Git:
-Bash
-
-"""git clone https://github.com/lala2398/machine-learning-portfolio.git"""
+````Bash
+git clone https://github.com/lala2398/machine-learning-portfolio.git
 
 Feel free to browse the notebooks, experiment with the code, and reach out if you have any questions. Good Luck :) 
