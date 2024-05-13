@@ -70,6 +70,9 @@ Let's see one by one to all the notebooks:
 [Syllabus, Notebooks, Certificate and Badge about the Course](https://github.com/Lala2398/Machine-Learning-Portfolio/tree/main/IBM_MLwithPython) 
 
 
+### UDACITY ML Nanodegree : Scholarship by Amazon
+[Codes,notes and exercises](https://github.com/Lala2398/Machine-Learning-Portfolio/blob/main/Udacity_AWS_ML_Nanodegree/README.md)
+
 
 If you want to use my Repository so, Getting Start : 
 
